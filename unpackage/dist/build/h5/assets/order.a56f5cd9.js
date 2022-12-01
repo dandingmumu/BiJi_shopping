@@ -1,0 +1,1 @@
+import{y as r}from"./index.59bb86cc.js";function t(t,e){return r.get(`order/detail/${t}?location=${e}`)}function e(t){return r.get("order/list?type="+t)}function n(t,e){return r.post(`order/refund/apply/${t}`,e)}export{t as a,e as g,n as r};

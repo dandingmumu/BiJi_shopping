@@ -1,0 +1,19 @@
+{
+    "id": "chenhouyi-canvas",
+    "name": "canvas-poster-sprite",
+    "version": "1.0.5",
+    "description": "【全面支持多端】：一个canvas海报合成插件，可以绘制文本，路径和图片到画布，并导出图片数据。",
+    "keywords": [
+        "canvas",
+        "二维码海报",
+        "合成海报",
+        "朋友圈海报",
+        "商品海报"
+    ],
+    "dependencies": {
+        "@vant/area-data": "^1.3.2",
+        "jweixin-module": "^1.6.0",
+        "vant": "^3.6.5",
+        "weixin-js-sdk": "^1.6.0"
+    }
+}

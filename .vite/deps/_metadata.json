@@ -1,0 +1,23 @@
+{
+  "hash": "62a16a8c",
+  "browserHash": "dc44bc2e",
+  "optimized": {
+    "vant": {
+      "src": "../../node_modules/vant/es/index.mjs",
+      "file": "vant.js",
+      "fileHash": "485a6e79",
+      "needsInterop": false
+    },
+    "weixin-js-sdk": {
+      "src": "../../node_modules/weixin-js-sdk/index.js",
+      "file": "weixin-js-sdk.js",
+      "fileHash": "5955d84e",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-UXNVUDHJ": {
+      "file": "chunk-UXNVUDHJ.js"
+    }
+  }
+}
