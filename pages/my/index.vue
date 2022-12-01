@@ -1,7 +1,7 @@
 <template>
 	<view>
 		<view class="content">
-			<!-- 我的信息 -->
+			<!-- 我的的信息 -->
 			<view class="shopping-userInfo">
 				<view class="userInfo">
 					<view class="avatar">
